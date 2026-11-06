@@ -12,6 +12,9 @@ for everything that is not a game. One folder per app, one release per app.
 Each app has its own README with install steps. Releases are tagged `<app>-v<version>` and
 attached as zips on the [Releases](https://github.com/vrgli/apps/releases) page.
 
+**How to try an app:** download its zip from the [Releases](https://github.com/vrgli/apps/releases)
+page once it is released, unzip, and follow the app's README. Mark My Words has no release yet.
+
 ## Ground rules for every app here
 
 - Vanilla JS, zero dependencies, nothing to build. Clone, open, run.
