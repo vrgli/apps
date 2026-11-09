@@ -10,10 +10,11 @@ Each app has its own repo, with its own README, install steps and releases.
 | App | What it is | Status |
 |---|---|---|
 | [QuadNav](https://github.com/vrgli/quadnav) | Chrome extension. Keyboard navigation that picks a quarter of the screen first, then labels only the links inside it. Left hand on `Alt`+`1`; the right hand never leaves the mouse. | first release in preparation |
-| [Mark My Words](https://github.com/vrgli/mark-my-words) | Six dials per person (friendly, tech savvy, busy, hierarchy, handholding, delegation) on a radar you drag, plus a note. So you, or your AI, write to each person the way they like to be written to. Local-first, no sign-in, your data stays in a JSON file you own. | in the works, no download yet |
+| [Mark My Words](https://github.com/vrgli/mark-my-words) | Six dials per person (friendly, tech savvy, busy, hierarchy, handholding, delegation) on a radar you drag, plus a note. So you, or your AI, write to each person the way they like to be written to. Local-first, no sign-in, your data stays in a JSON file you own. | v0.1 is out: [try it](https://vrgli.github.io/mark-my-words/) or [download](https://github.com/vrgli/mark-my-words/releases/tag/v0.1) |
 
-**How to try an app:** open its repo and download the zip from its Releases page once it is
-released, unzip, and follow its README. Neither app has a release yet.
+**How to try an app:** open its repo and download the zip from its Releases page, unzip, and
+follow its README. Mark My Words v0.1 is out (it also runs in the browser, no install). QuadNav has
+no release yet.
 
 **How to fork an app:** open its repo, click **Fork**, clone your fork.
 
